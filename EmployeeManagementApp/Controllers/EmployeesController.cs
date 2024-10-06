@@ -48,7 +48,11 @@ namespace EmployeeManagementApp.Controllers
         // GET: Employees/Create
         public IActionResult Create()
         {
-            ViewData["DepartmentID"] = new SelectList(_context.Departments, "DepartmentID", "DepartmentName");
+            var departments = _context.Departments.ToList();
+            var selectList = new SelectList(departments, "DepartmentID", "DepartmentName");
+
+            ViewData["DepartmentID"] = selectList;
+
             return View();
         }
 
@@ -57,7 +61,7 @@ namespace EmployeeManagementApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("EmployeeID,FirstName,LastName,DepartmentID")] Employee employee)
+        public async Task<IActionResult> Create([Bind("FirstName,LastName,DepartmentID")] Employee employee)
         {
             if (ModelState.IsValid)
             {

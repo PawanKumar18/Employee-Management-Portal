@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\models\\salaryhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\models\\salaryhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\pawan\\source\\repos\\employeemanagementapp\\employeemanagementapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5658EC9-BF64-4BD9-9887-0057C34B77BA}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T23:35:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:15:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "EmployeeManagementApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-06T22:15:57.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T22:15:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA9wBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:13:14.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T23:26:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:38:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T23:33:37.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T23:00:40.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:55:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalaryHistory.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\SalaryHistory.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Models\\SalaryHistory.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\SalaryHistory.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Models\\SalaryHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:59:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:13:11.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

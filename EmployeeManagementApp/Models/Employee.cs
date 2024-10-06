@@ -1,8 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace EmployeeManagementApp.Models
 {
+    [Table("Employee")]
     public class Employee
     {
         [Key]
@@ -24,7 +26,10 @@ namespace EmployeeManagementApp.Models
         public int DepartmentID { get; set; }
 
         // Navigation properties
+        [ValidateNever]
         public virtual Department Department { get; set; }
+        
+        [ValidateNever]
         public virtual ICollection<SalaryHistory> SalaryHistories { get; set; }
     }
 }

@@ -269,6 +269,7 @@ C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debu
 C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.RazorAssemblyInfo.cache
 C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.RazorAssemblyInfo.cs
+C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.sourcelink.json
 C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\pawan\source\repos\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagementApp.Microsoft.AspNetCore.StaticWebAssets.props

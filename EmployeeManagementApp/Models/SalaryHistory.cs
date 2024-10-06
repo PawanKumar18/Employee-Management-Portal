@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace EmployeeManagementApp.Models
 {
+    [Table("SalaryHistory")]
     public class SalaryHistory
     {
         [Key]
