@@ -72,3 +72,26 @@ The **Employee Management Application** is a web-based system built using **ASP.
 **Database Schema Diagram**
 
 ![Database Schema](https://github.com/user-attachments/assets/bee236e4-64a9-443c-9fb6-5db6d35c96c5)
+
+**Web Application Sceenshots**
+
+Login
+![image](https://github.com/user-attachments/assets/caec4e7b-9682-4762-b22f-6bdc5ba83766)
+
+Register
+![image](https://github.com/user-attachments/assets/ae9cb661-0e55-42c4-8ca0-78bbcbacb14f)
+
+Home page
+![image](https://github.com/user-attachments/assets/a2e90474-017c-42b2-bf04-f105d411392d)
+
+Add Employee
+![image](https://github.com/user-attachments/assets/785252c2-e1be-4992-8eb7-9d056fb9bb30)
+
+Edit Employee
+![image](https://github.com/user-attachments/assets/c081687c-e3ae-4c17-abc4-ad06a314527d)
+
+Salary History
+![image](https://github.com/user-attachments/assets/02ffc657-7c2c-4527-916a-7e2614b48099)
+
+
+
