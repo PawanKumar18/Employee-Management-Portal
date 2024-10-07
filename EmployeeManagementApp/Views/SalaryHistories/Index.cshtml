@@ -1,0 +1,47 @@
+﻿@model IEnumerable<EmployeeManagementApp.Models.SalaryHistory>
+@{
+    ViewData["Title"] = "Salary History by Department";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Department Selection Form -->
+<form method="get" asp-action="Index" class="form-inline mb-4">
+    <div class="form-group mr-2">
+        <label for="departmentId" class="mr-2">Select Department:</label>
+        @Html.DropDownList("departmentId", (SelectList)ViewBag.Departments, "-- Select Department --", new { @class = "form-control", id = "departmentId" })
+    </div>
+    <button type="submit" class="btn btn-primary">View Salary History</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h3>Salary Histories for @ViewBag.SelectedDepartment</h3>
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Name</th>
+                <th>Salary</th>
+                <th>Effective Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var sh in Model)
+            {
+                <tr>
+                    <td>@($"{sh.Employee.EmployeeID}")</td>
+                    <td>@($"{sh.Employee.FirstName} {sh.Employee.LastName}")</td>
+                    <td>@sh.Salary.ToString("C")</td>
+                    <td>@sh.EffectiveDate.ToString("MMMM dd, yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (ViewBag.SelectedDepartment != null)
+{
+    <div class="alert alert-info">
+        No salary history records found for the selected department.
+    </div>
+}
