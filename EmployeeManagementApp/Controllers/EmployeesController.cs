@@ -20,11 +20,34 @@ namespace EmployeeManagementApp.Controllers
         }
 
         // GET: Employees
-        public async Task<IActionResult> Index()
+        //public async Task<IActionResult> Index()
+        //{
+        //    var employeeDBContext = _context.Employees.Include(e => e.Department);
+        //    return View(await employeeDBContext.ToListAsync());
+        //}
+
+        public async Task<IActionResult> Index(string searchEmployeeID)
         {
-            var employeeDBContext = _context.Employees.Include(e => e.Department);
-            return View(await employeeDBContext.ToListAsync());
+            var employees = _context.Employees.Include(e => e.Department).AsQueryable();
+
+            if (!string.IsNullOrEmpty(searchEmployeeID))
+            {
+                if (int.TryParse(searchEmployeeID, out int employeeId))
+                {
+                    employees = employees.Where(e => e.EmployeeID == employeeId);
+                }
+                else
+                {
+                    // Optionally, handle invalid input (non-integer Employee ID)
+                    ModelState.AddModelError(string.Empty, "Please enter a valid numeric Employee ID.");
+                }
+            }
+
+            var employeeList = await employees.ToListAsync();
+
+            return View(employeeList);
         }
+
 
         // GET: Employees/Details/5
         public async Task<IActionResult> Details(int? id)
