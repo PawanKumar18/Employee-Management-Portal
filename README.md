@@ -73,6 +73,40 @@ The **Employee Management Application** is a web-based system built using **ASP.
 
 ![Database Schema](https://github.com/user-attachments/assets/bee236e4-64a9-443c-9fb6-5db6d35c96c5)
 
+
+**Steps for Setting Up and Running the Application**
+
+Update Connection Strings:
+Ensure your appsettings.json file has the correct connection strings as shown above. Update the server name if you're using a different SQL Server instance.
+
+Create the Databases:
+
+Open SQL Server Management Studio (SSMS).
+Connect to your SQL Server instance.
+Run the above SQL script to create the databases.
+Import Schema and Data :
+
+Select the EmployeeDB database in SSMS.
+Open a new query window and execute your schema script db_schema.sql to create tables and constraints.
+Import data_dump, open it and execute it to insert data into the tables.
+Build and Run the Application:
+
+In Visual Studio, right-click on the solution and select Restore NuGet Packages.
+Build the solution (Build > Build Solution) or press Ctrl+Shift+B.
+Run the application (F5 to run with debugging or Ctrl+F5 to run without debugging). The app should launch in your default browser at a URL like (https://localhost:7155/).
+Test the Application:
+
+Register a new user and log in.
+Access features like Add Employee, View Departments, and View Salary History.
+Apply Entity Framework Migrations (for Identity Database):
+
+If you're not using SQL scripts for the Identity database:
+
+powershell
+Copy code
+Update-Database -Context ApplicationDbContext
+
+
 **Web Application Sceenshots**
 
 Login
