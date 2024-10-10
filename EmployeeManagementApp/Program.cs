@@ -44,12 +44,17 @@ app.UseAuthorization();
 
 app.Use(async (context, next) =>
 {
-    if (!context.User.Identity.IsAuthenticated && context.Request.Path == "/")
+    // Check if the user is authenticated
+    if (!context.User.Identity.IsAuthenticated
+        && !context.Request.Path.StartsWithSegments("/Identity/Account/Login")
+        && !context.Request.Path.StartsWithSegments("/Identity/Account/Register"))
     {
+        // Redirect to login page if not authenticated
         context.Response.Redirect("/Identity/Account/Login");
     }
     else
     {
+        // If authenticated or accessing login/register, continue to the next middleware
         await next();
     }
 });
